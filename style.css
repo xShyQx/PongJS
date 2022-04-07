@@ -1,10 +1,16 @@
 body {
     background-color: rgb(41, 41, 91);
-    box-sizing: border-box;
 }
 
 .container {
-    width: 100%;
+    position: relative;
     height: 97vh;
     background-color: rgb(26, 26, 70);
+}
+
+.game {
+    margin: 10px;
+    margin-top: 10px;
+    height: 500px;
+    background-color: rgb(15, 15, 45)
 }
